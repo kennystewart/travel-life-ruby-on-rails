@@ -61,24 +61,3 @@ Type next command to run unit tests
 Type next command to run integration tests
 
     rspec spec/features
-
-
-## Author
-
-👤 **Xóchitl Selene Flores Pérez**
-
-- Github: [@enelesmai](https://github.com/enelesmai)
-- Twitter: [@enelesmai](https://twitter.com/enelesmai)
-- Linkedin: [xochitlselene](https://linkedin.com/in/xochitlselene)
-
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
-
-
-## Show your support
-
-Give a ⭐️ if you like this project!
